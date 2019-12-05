@@ -1,0 +1,4 @@
+Exception: Er is een fout opgetreden! in D:\BitAcademy\Bit Academy\!Exercises\Module 5 - PHP Web\Level 3 - Whoops, Error\Error-logging-c47de220\error.php:12
+Stack trace:
+#0 D:\BitAcademy\Bit Academy\!Exercises\Module 5 - PHP Web\Level 3 - Whoops, Error\Error-logging-c47de220\error.php(16): {closure}(2, 'Division by zer...', 'D:\\BitAcademy\\B...', 16, Array)
+#1 {main}
